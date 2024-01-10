@@ -1,0 +1,29 @@
+﻿# Google Chrome ショートカットキー チートシート
+
+## タブとウィンドウ
+
+- 新しいタブを開く: `Ctrl + T`
+- 新しいウィンドウを開く: `Ctrl + N`
+- タブを閉じる: `Ctrl + W` または `Ctrl + F4`
+- 最後に閉じたタブを開く: `Ctrl + Shift + T`
+- 次のタブに移動: `Ctrl + Tab` または `Ctrl + Page Down`
+- 前のタブに移動: `Ctrl + Shift + Tab` または `Ctrl + Page Up`
+
+## ページナビゲーション
+
+- ページを更新: `F5` または `Ctrl + R`
+- ページを強制更新: `Ctrl + F5` または `Shift + F5`
+- 戻る: `Alt + ←` または `Backspace`
+- 進む: `Alt + →` または `Shift + Backspace`
+
+## ブックマークと履歴
+
+- ブックマークバーを表示/非表示: `Ctrl + Shift + B`
+- 履歴を表示: `Ctrl + H`
+- ダウンロード履歴を表示: `Ctrl + J`
+
+## ツール
+
+- 開発者ツールを表示: `Ctrl + Shift + I`
+- JavaScriptコンソールを表示: `Ctrl + Shift + J`
+- ページソースを表示: `Ctrl + U`
